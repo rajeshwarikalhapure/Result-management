@@ -1,0 +1,1 @@
+https://sresultmanagement.netlify.app/
